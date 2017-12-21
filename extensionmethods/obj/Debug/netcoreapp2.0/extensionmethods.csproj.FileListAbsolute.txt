@@ -1,0 +1,10 @@
+/home/arshadnazeer/Places/git/dotnet/myapps/extensionmethods/bin/Debug/netcoreapp2.0/extensionmethods.deps.json
+/home/arshadnazeer/Places/git/dotnet/myapps/extensionmethods/bin/Debug/netcoreapp2.0/extensionmethods.runtimeconfig.json
+/home/arshadnazeer/Places/git/dotnet/myapps/extensionmethods/bin/Debug/netcoreapp2.0/extensionmethods.runtimeconfig.dev.json
+/home/arshadnazeer/Places/git/dotnet/myapps/extensionmethods/bin/Debug/netcoreapp2.0/extensionmethods.dll
+/home/arshadnazeer/Places/git/dotnet/myapps/extensionmethods/bin/Debug/netcoreapp2.0/extensionmethods.pdb
+/home/arshadnazeer/Places/git/dotnet/myapps/extensionmethods/obj/Debug/netcoreapp2.0/extensionmethods.csproj.CoreCompileInputs.cache
+/home/arshadnazeer/Places/git/dotnet/myapps/extensionmethods/obj/Debug/netcoreapp2.0/extensionmethods.AssemblyInfoInputs.cache
+/home/arshadnazeer/Places/git/dotnet/myapps/extensionmethods/obj/Debug/netcoreapp2.0/extensionmethods.AssemblyInfo.cs
+/home/arshadnazeer/Places/git/dotnet/myapps/extensionmethods/obj/Debug/netcoreapp2.0/extensionmethods.dll
+/home/arshadnazeer/Places/git/dotnet/myapps/extensionmethods/obj/Debug/netcoreapp2.0/extensionmethods.pdb
