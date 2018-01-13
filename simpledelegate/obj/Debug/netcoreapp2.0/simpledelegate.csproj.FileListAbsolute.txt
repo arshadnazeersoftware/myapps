@@ -1,0 +1,10 @@
+/home/arshadnazeer/Places/git/dotnet/myapps/simpledelegate/bin/Debug/netcoreapp2.0/simpledelegate.deps.json
+/home/arshadnazeer/Places/git/dotnet/myapps/simpledelegate/bin/Debug/netcoreapp2.0/simpledelegate.runtimeconfig.json
+/home/arshadnazeer/Places/git/dotnet/myapps/simpledelegate/bin/Debug/netcoreapp2.0/simpledelegate.runtimeconfig.dev.json
+/home/arshadnazeer/Places/git/dotnet/myapps/simpledelegate/bin/Debug/netcoreapp2.0/simpledelegate.dll
+/home/arshadnazeer/Places/git/dotnet/myapps/simpledelegate/bin/Debug/netcoreapp2.0/simpledelegate.pdb
+/home/arshadnazeer/Places/git/dotnet/myapps/simpledelegate/obj/Debug/netcoreapp2.0/simpledelegate.csproj.CoreCompileInputs.cache
+/home/arshadnazeer/Places/git/dotnet/myapps/simpledelegate/obj/Debug/netcoreapp2.0/simpledelegate.AssemblyInfoInputs.cache
+/home/arshadnazeer/Places/git/dotnet/myapps/simpledelegate/obj/Debug/netcoreapp2.0/simpledelegate.AssemblyInfo.cs
+/home/arshadnazeer/Places/git/dotnet/myapps/simpledelegate/obj/Debug/netcoreapp2.0/simpledelegate.dll
+/home/arshadnazeer/Places/git/dotnet/myapps/simpledelegate/obj/Debug/netcoreapp2.0/simpledelegate.pdb
