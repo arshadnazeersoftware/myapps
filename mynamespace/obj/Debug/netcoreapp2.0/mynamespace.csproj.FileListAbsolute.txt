@@ -1,0 +1,10 @@
+/home/arshadnazeer/Places/git/dotnet/myapps/mynamespace/bin/Debug/netcoreapp2.0/mynamespace.deps.json
+/home/arshadnazeer/Places/git/dotnet/myapps/mynamespace/bin/Debug/netcoreapp2.0/mynamespace.runtimeconfig.json
+/home/arshadnazeer/Places/git/dotnet/myapps/mynamespace/bin/Debug/netcoreapp2.0/mynamespace.runtimeconfig.dev.json
+/home/arshadnazeer/Places/git/dotnet/myapps/mynamespace/bin/Debug/netcoreapp2.0/mynamespace.dll
+/home/arshadnazeer/Places/git/dotnet/myapps/mynamespace/bin/Debug/netcoreapp2.0/mynamespace.pdb
+/home/arshadnazeer/Places/git/dotnet/myapps/mynamespace/obj/Debug/netcoreapp2.0/mynamespace.csproj.CoreCompileInputs.cache
+/home/arshadnazeer/Places/git/dotnet/myapps/mynamespace/obj/Debug/netcoreapp2.0/mynamespace.AssemblyInfoInputs.cache
+/home/arshadnazeer/Places/git/dotnet/myapps/mynamespace/obj/Debug/netcoreapp2.0/mynamespace.AssemblyInfo.cs
+/home/arshadnazeer/Places/git/dotnet/myapps/mynamespace/obj/Debug/netcoreapp2.0/mynamespace.dll
+/home/arshadnazeer/Places/git/dotnet/myapps/mynamespace/obj/Debug/netcoreapp2.0/mynamespace.pdb
