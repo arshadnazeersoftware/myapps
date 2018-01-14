@@ -1,0 +1,10 @@
+/home/arshadnazeer/Places/git/dotnet/myapps/myclass/bin/Debug/netcoreapp2.0/myclass.deps.json
+/home/arshadnazeer/Places/git/dotnet/myapps/myclass/bin/Debug/netcoreapp2.0/myclass.runtimeconfig.json
+/home/arshadnazeer/Places/git/dotnet/myapps/myclass/bin/Debug/netcoreapp2.0/myclass.runtimeconfig.dev.json
+/home/arshadnazeer/Places/git/dotnet/myapps/myclass/bin/Debug/netcoreapp2.0/myclass.dll
+/home/arshadnazeer/Places/git/dotnet/myapps/myclass/bin/Debug/netcoreapp2.0/myclass.pdb
+/home/arshadnazeer/Places/git/dotnet/myapps/myclass/obj/Debug/netcoreapp2.0/myclass.csproj.CoreCompileInputs.cache
+/home/arshadnazeer/Places/git/dotnet/myapps/myclass/obj/Debug/netcoreapp2.0/myclass.AssemblyInfoInputs.cache
+/home/arshadnazeer/Places/git/dotnet/myapps/myclass/obj/Debug/netcoreapp2.0/myclass.AssemblyInfo.cs
+/home/arshadnazeer/Places/git/dotnet/myapps/myclass/obj/Debug/netcoreapp2.0/myclass.dll
+/home/arshadnazeer/Places/git/dotnet/myapps/myclass/obj/Debug/netcoreapp2.0/myclass.pdb
