@@ -1,0 +1,10 @@
+/home/arshadnazeer/Places/git/dotnet/myapps/WanderingDelegates/bin/Debug/netcoreapp2.0/WanderingDelegates.deps.json
+/home/arshadnazeer/Places/git/dotnet/myapps/WanderingDelegates/bin/Debug/netcoreapp2.0/WanderingDelegates.runtimeconfig.json
+/home/arshadnazeer/Places/git/dotnet/myapps/WanderingDelegates/bin/Debug/netcoreapp2.0/WanderingDelegates.runtimeconfig.dev.json
+/home/arshadnazeer/Places/git/dotnet/myapps/WanderingDelegates/bin/Debug/netcoreapp2.0/WanderingDelegates.dll
+/home/arshadnazeer/Places/git/dotnet/myapps/WanderingDelegates/bin/Debug/netcoreapp2.0/WanderingDelegates.pdb
+/home/arshadnazeer/Places/git/dotnet/myapps/WanderingDelegates/obj/Debug/netcoreapp2.0/WanderingDelegates.csproj.CoreCompileInputs.cache
+/home/arshadnazeer/Places/git/dotnet/myapps/WanderingDelegates/obj/Debug/netcoreapp2.0/WanderingDelegates.AssemblyInfoInputs.cache
+/home/arshadnazeer/Places/git/dotnet/myapps/WanderingDelegates/obj/Debug/netcoreapp2.0/WanderingDelegates.AssemblyInfo.cs
+/home/arshadnazeer/Places/git/dotnet/myapps/WanderingDelegates/obj/Debug/netcoreapp2.0/WanderingDelegates.dll
+/home/arshadnazeer/Places/git/dotnet/myapps/WanderingDelegates/obj/Debug/netcoreapp2.0/WanderingDelegates.pdb
