@@ -1,0 +1,10 @@
+/home/arshadnazeer/Places/git/dotnet/myapps/designpatterns/factory/bin/Debug/netcoreapp2.0/factory.deps.json
+/home/arshadnazeer/Places/git/dotnet/myapps/designpatterns/factory/bin/Debug/netcoreapp2.0/factory.runtimeconfig.json
+/home/arshadnazeer/Places/git/dotnet/myapps/designpatterns/factory/bin/Debug/netcoreapp2.0/factory.runtimeconfig.dev.json
+/home/arshadnazeer/Places/git/dotnet/myapps/designpatterns/factory/bin/Debug/netcoreapp2.0/factory.dll
+/home/arshadnazeer/Places/git/dotnet/myapps/designpatterns/factory/bin/Debug/netcoreapp2.0/factory.pdb
+/home/arshadnazeer/Places/git/dotnet/myapps/designpatterns/factory/obj/Debug/netcoreapp2.0/factory.csproj.CoreCompileInputs.cache
+/home/arshadnazeer/Places/git/dotnet/myapps/designpatterns/factory/obj/Debug/netcoreapp2.0/factory.AssemblyInfoInputs.cache
+/home/arshadnazeer/Places/git/dotnet/myapps/designpatterns/factory/obj/Debug/netcoreapp2.0/factory.AssemblyInfo.cs
+/home/arshadnazeer/Places/git/dotnet/myapps/designpatterns/factory/obj/Debug/netcoreapp2.0/factory.dll
+/home/arshadnazeer/Places/git/dotnet/myapps/designpatterns/factory/obj/Debug/netcoreapp2.0/factory.pdb
